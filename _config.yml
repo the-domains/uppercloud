@@ -1,0 +1,28 @@
+name: UPPERCLOUD
+favicon: null
+layout_spectrum: 0.20658232644200325
+typography_spectrum: 0.9481247568037361
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.05649094865657389
+  lightness: 0.47026472771540284
+  saturation: 0.08807370252907276
+  rhythmicContrast: 0.2235787899699062
+purpose: []
