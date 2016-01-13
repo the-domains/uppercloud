@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[UPPERCLOUD MEDIA]]></title>
         <description><![CDATA[UPPERCLOUD MEDIA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/uppercloud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 09:55:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 10:04:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/uppercloud/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sample Work 1]]></title>
+            <description><![CDATA[<article><h1>Sample Work 1</h1><p>Sample Work</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ae46724c70cad2fda982bfcc5c2142fb18fbe64.png"></article>]]></description>
+            <link>https://thegrid.ai/uppercloud/sample-work-1/index.html</link>
+            <guid isPermaLink="false">f7320f5e-9dc3-4d04-872f-240becd9cd9a</guid>
+            <pubDate>Wed, 13 Jan 2016 10:04:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7692e306-6394-460c-9008-3caff780a397.JPG">]]></description>
-            <link>undefinedb249ff8d-2801-40c4-adcd-ecdbdce5ea26/index.html</link>
+            <link>https://thegrid.ai/uppercloud/b249ff8d-2801-40c4-adcd-ecdbdce5ea26/index.html</link>
             <guid isPermaLink="false">b249ff8d-2801-40c4-adcd-ecdbdce5ea26</guid>
             <pubDate>Wed, 13 Jan 2016 09:55:09 GMT</pubDate>
         </item>
